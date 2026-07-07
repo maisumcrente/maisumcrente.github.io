@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Mais um crente
-  pageTitleSuffix: "Quem sou eu? apenas mais um crente."
+  pageTitleSuffix: "maisumcrente"
   enableSPA: true
   enablePopovers: true
   analytics:
