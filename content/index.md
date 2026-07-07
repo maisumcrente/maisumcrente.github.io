@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bem vindo ao blog de maisumcrente
 ---
 
-This is a blank Quartz installation. ok. 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Espero que aqui você possa encontrar a resposta para aquilo que o homem não consegue responder. 
